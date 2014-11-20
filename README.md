@@ -13,7 +13,7 @@ This is just a starting point(sandbox) that can be used to ilustrate the followi
  - npm install
  - node app.js
  - visit http://localhost:3000/ and you should see: Hello Makers, I'm server One
-    visit http://localhost:5000/ and you should see:Hello Makers, I'm server Two
+ - visit http://localhost:5000/ and you should see:Hello Makers, I'm server Two
 
 
 
