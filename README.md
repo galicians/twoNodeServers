@@ -1,6 +1,6 @@
-## Two web servers to help with mechanics of node
+## Two web servers to help with the mechanics of node asynchronous event loop model
 
-This is just a starting point(sandbox) that can be used to ilustrate the following concepts in node:
+#This is just a starting point(sandbox) that can be used to ilustrate the following concepts in node:
 
  - asynchronous calls and the event loop
  - reading and writing the response and request objects
@@ -8,7 +8,8 @@ This is just a starting point(sandbox) that can be used to ilustrate the followi
  - http node package
  - and specially *** promises ***
 
- To install this:
+#To install this:
+
  - git clone https://github.com/galicians/twoNodeServers on your machine
  - npm install
  - node app.js
